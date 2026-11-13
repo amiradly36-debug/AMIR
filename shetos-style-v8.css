@@ -1,12 +1,8 @@
 html {
-background: #1a1a2e;
-
-
     background-position: center;
     background-size: contain;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-color: #24272b;
     color: white;
     text-align: center;
     overflow: hidden;
