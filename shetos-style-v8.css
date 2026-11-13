@@ -1,4 +1,7 @@
 html {
+  html {
+    background-image: url('amir.png');
+    background-color: #07101f;
     background-position: center;
     background-size: contain;
     background-attachment: fixed;
@@ -6,6 +9,7 @@ html {
     color: white;
     text-align: center;
     overflow: hidden;
+}
 }
 
 h1 {
